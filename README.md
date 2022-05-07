@@ -58,4 +58,7 @@ nunca vai mentir e te magoar.
 [![logo gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
 [![logo aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 
-## :books: My contacts ##
+## 📱 My Contacts ##
+
+[![logo gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bezerra.mj@gmail.com)
+[![logo linkedin](https://img.shields.io/badge/Linkedin-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bovino/)
