@@ -39,7 +39,7 @@ nunca vai mentir e te magoar.
 [![logo json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)
 [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 [![logo javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-[![logo nodejs](https://img.shields.io/badge/NodeJS-6DB33F?style=for-the-badge&logo=nodeJS&logoColor=white)](#)
+[![logo nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
 [![logo mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![logo mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![logo postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
@@ -54,5 +54,8 @@ nunca vai mentir e te magoar.
 [![logo grpc](https://img.shields.io/badge/GRPC-007ACC?style=for-the-badge&logo=grpc&logoColor=white)](#)
 [![logo kubernetes](https://img.shields.io/badge/Kubernetes-430098?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
 [![logo istio](https://img.shields.io/badge/ISTIO-007ACC?style=for-the-badge&logo=istio&logoColor=white)](#)
+[![logo golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
+[![logo gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
+[![logo aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 
 ## :books: My contacts ##
