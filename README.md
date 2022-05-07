@@ -1,5 +1,3 @@
-### (bovino is working here.....) 👋
-
 <!--
 PARABENS!!! Você encontrou Rick Astley. 
 A partir de agora ele:
@@ -64,7 +62,7 @@ The rest of the text is under construction.
 
 ## :books: Education ##
 
-- GRADUATION: During my graduation i studied at UnB (University of Brasilia) and UniEuro
+- GRADUATION: During my graduation i studied at UnB (University of Brasilia) and UniEuro (Brazil)
 - POST GRADUATION: I have a post graduation at IGTI (Brazil), where i studied BigData and topics related to data engineering
 
 ## :books: Some of my coolest githup repos that you might want to take a look ##
@@ -77,5 +75,6 @@ The rest of the text is under construction.
 
 ## 📱 My Contacts ##
 
-[![logo gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bezerra.mj@gmail.com)
+[![logo gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bezerra.mj@gmail.com) bezerra.mj@gmail.com
+
 [![logo linkedin](https://img.shields.io/badge/Linkedin-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bovino/)
