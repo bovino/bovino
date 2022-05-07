@@ -29,6 +29,10 @@ nunca vai mentir e te magoar.
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⢹⣿⣵⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣯⡁⠀⠀⠀
 -->
+## :star: About me ##
+My nickname is bovino and my name is Marcelo Bezerra (but people have usually and consistently called me by my nickname in the last 20 years or so). 
+I am a software engineer focused on backend, API design, API Gateways and system integrations. I am a member of the Kong Champions program (https://konghq.com/kong-champions). 
+The rest of the text is under construction.
 
 ## :star: Technologies in which I have the most knowledge :star: ##
 
@@ -57,6 +61,11 @@ nunca vai mentir e te magoar.
 [![logo golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
 [![logo gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
 [![logo aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+
+## :books: Education ##
+
+- GRADUATION: During my graduation i studied at UnB (University of Brasilia) and UniEuro
+- POST GRADUATION: I have a post graduation at IGTI (Brazil), where i studied BigData and topics related to data engineering
 
 ## 📱 My Contacts ##
 
