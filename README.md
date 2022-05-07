@@ -67,6 +67,14 @@ The rest of the text is under construction.
 - GRADUATION: During my graduation i studied at UnB (University of Brasilia) and UniEuro
 - POST GRADUATION: I have a post graduation at IGTI (Brazil), where i studied BigData and topics related to data engineering
 
+## :books: Some of my coolest githup repos that you might want to take a look ##
+
+- https://github.com/bovino/kong-template-with-docker
+- https://github.com/bovino/docker-compose-generator
+- https://github.com/bovino/cidprojetoaplicado
+- https://github.com/bovino/kotlin_sboot233_tdc_live_coding
+- (under construction, i will have a few others in this list soon....)
+
 ## 📱 My Contacts ##
 
 [![logo gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bezerra.mj@gmail.com)
