@@ -34,12 +34,25 @@ nunca vai mentir e te magoar.
 
 [![logo java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 [![logo spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
+[![logo springboot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](#)
+[![logo kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=kotlin&logoColor=white)](#)
 [![logo json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)
 [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 [![logo javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
+[![logo nodejs](https://img.shields.io/badge/NodeJS-6DB33F?style=for-the-badge&logo=nodeJS&logoColor=white)](#)
 [![logo mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![logo mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
+[![logo postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![logo lua](https://img.shields.io/badge/LUA-5E5C5C?style=for-the-badge&logo=lua&logoColor=white)](#)
+[![logo rest](https://img.shields.io/badge/REST-5E5C5C?style=for-the-badge&logo=rest&logoColor=white)](#)
+[![logo kong](https://img.shields.io/badge/KONGAPIGATEWAY-5E5C5C?style=for-the-badge&logo=kong&logoColor=white)](#)
 
 ## :books: Technologies that I am looking to study and improve myself ##
 
 [![logo typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
 [![logo heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
+[![logo grpc](https://img.shields.io/badge/GRPC-007ACC?style=for-the-badge&logo=grpc&logoColor=white)](#)
+[![logo kubernetes](https://img.shields.io/badge/Kubernetes-430098?style=for-the-badge&logo=kubernetes&logoColor=white)](#)
+[![logo istio](https://img.shields.io/badge/ISTIO-007ACC?style=for-the-badge&logo=istio&logoColor=white)](#)
+
+## :books: My contacts ##
