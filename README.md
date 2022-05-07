@@ -78,3 +78,9 @@ The rest of the text is under construction.
 [![logo gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bezerra.mj@gmail.com) bezerra.mj@gmail.com
 
 [![logo linkedin](https://img.shields.io/badge/Linkedin-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bovino/)
+
+## :white_check_mark: Stats ##
+
+[![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bovino&theme=solarized_dark)](#)
+
+## Thanks for visiting my profile :wave:
