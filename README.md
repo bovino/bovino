@@ -31,9 +31,8 @@ nunca vai mentir e te magoar.
 My nickname is bovino and my name is Marcelo Bezerra (but people have usually and consistently called me by my nickname in the last 20 years or so). 
 I am a software engineer who started programming in 2002, and in the last years i focused my career on topics like backend development, API design, API Gateways and system integrations. 
 
-I am a member of the Kong Champions program (https://konghq.com/kong-champions) and i had the honor to speak in conferences like Kong HQ "Destination:Scale" and TDC - The Developers Conference. 
-
-The rest of the text is under construction.
+I am a member of the Kong Champions program (https://konghq.com/kong-champions) and i had the honor to speak in conferences like Kong HQ "Destination:Scale" (https://konghq.com/events/destination-scale) 
+and TDC - The Developers Conference (https://thedevconf.com/). 
 
 ## :star: Technologies in which I have the most knowledge :star: ##
 
