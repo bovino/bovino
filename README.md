@@ -54,6 +54,8 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 [![logo json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)
 [![logo xml](https://img.shields.io/badge/xml-5E5C5C?style=for-the-badge&logo=xml&logoColor=white)](#)
 [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![logo git](https://img.shields.io/badge/Git-100000?style=for-the-badge&logo=git&logoColor=white)](#)
+[![logo gitlab](https://img.shields.io/badge/GitLab-100000?style=for-the-badge&logo=gitlab&logoColor=white)](#)
 [![logo javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![logo nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
 [![logo expres](https://img.shields.io/badge/Express-5E5C5C?style=for-the-badge&logo=express&logoColor=white)](#)
