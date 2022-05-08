@@ -90,11 +90,13 @@ The rest of the text is under construction.
 - https://github.com/bovino/kotlin_sboot233_tdc_live_coding
 - (under construction, i will have a few others in this list soon....)
 
-## 📱 My Contacts (Email and Linkedin profile) ##
+## 📱 My Contacts (Email, StackOverflow and Linkedin profile) ##
 
 [![logo gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bezerra.mj@gmail.com) bezerra.mj@gmail.com
 
 [![logo linkedin](https://img.shields.io/badge/Linkedin-007ACC?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bovino/)
+
+[![logo stackoverflow](https://img.shields.io/badge/StackOverFlow-F2F4F9?style=for-the-badge&logo=stackoverflow&logoColor=red)](https://stackoverflow.com/users/2769667/bovino-marcelo-bezerra)
 
 ## :white_check_mark: Stats ##
 
