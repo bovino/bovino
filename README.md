@@ -82,6 +82,19 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 [![logo aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
 [![logo elastic](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](#)
 
+## :books: Some of the tools, clients and utility software i like to use during development (it´s not the full/complete list, these are just the ones that i have used more frequently in the last years) ##
+
+- IDE: VSCODE, IntelliJ, GoLand, Notepad++, Eclipse, Spring Tools
+- Build and artifacts repository: Gradle, Maven, NPM, Lua Rocks, GitLabCI, Jenkins, Nexus, Artifact
+- Containers: Podman, Docker, Docker Compose, Docker Compose Generator, Docker Hub
+- Load test: JMeter, K6, LoadMill
+- Contract testing: Pact, Pact Broker, Spring Cloud contract
+- API: Postman, curl, Insomnia, Stoplight, OpenAPI Generator (https://openapi-generator.tech/), OpenAPI tools (https://openapi.tools/), Swagger Editor
+- Kafka: KafkaDrop, Offset Explorer, Kaf
+- Database: DBeaver, Oracle SQL Explorer, SQL Server Studio, PgAdmin, MongoDB Compass, MySQL Workbench
+- Docs and communications: Confluence, JIRA, Slack, MS Teams, Google Meet, Google Docs, Zoom, Miro
+- OS: Linux Ubuntu, Arch Linux and Windows 10
+
 ## :books: Education ##
 
 - GRADUATION: During my graduation i studied at UnB (University of Brasilia) and UniEuro (Brazil)
