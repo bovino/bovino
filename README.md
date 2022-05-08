@@ -42,6 +42,8 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 [![logo java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 [![logo spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 [![logo springboot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](#)
+[![logo jpa](https://img.shields.io/badge/JPA-F2F4F9?style=for-the-badge&logo=jpa)](#)
+[![logo springdata](https://img.shields.io/badge/SpringData-F2F4F9?style=for-the-badge&logo=spring-data)](#)
 [![logo junit](https://img.shields.io/badge/JUnit-F2F4F9?style=for-the-badge&logo=junit)](#)
 [![logo mockito](https://img.shields.io/badge/Mockito-F2F4F9?style=for-the-badge&logo=mockito)](#)
 [![logo kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=kotlin&logoColor=white)](#)
@@ -57,6 +59,7 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 [![logo postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![logo kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](#)
 [![logo lua](https://img.shields.io/badge/LUA-5E5C5C?style=for-the-badge&logo=lua&logoColor=white)](#)
+[![logo pongo](https://img.shields.io/badge/Pongo-5E5C5C?style=for-the-badge&logo=pongo&logoColor=white)](#)
 [![logo rest](https://img.shields.io/badge/REST-5E5C5C?style=for-the-badge&logo=rest&logoColor=white)](#)
 [![logo kong](https://img.shields.io/badge/KONGAPIGATEWAY-5E5C5C?style=for-the-badge&logo=kong&logoColor=white)](#)
 
