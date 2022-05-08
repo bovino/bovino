@@ -65,6 +65,7 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 [![logo fastify](https://img.shields.io/badge/Fastify-5E5C5C?style=for-the-badge&logo=fastify&logoColor=white)](#)
 [![logo jest](https://img.shields.io/badge/Jest-5E5C5C?style=for-the-badge&logo=jest&logoColor=white)](#)
 [![logo mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
+[![logo redis](https://img.shields.io/badge/Redis-00000F?style=for-the-badge&logo=redis&logoColor=white)](#)
 [![logo mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![logo postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
 [![logo kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](#)
@@ -95,7 +96,8 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 - Kafka: Kafka Drop, Offset Explorer / Kafka Tool, Kaf, Spectre Kafka GUI
 - Metrics, logging and monitoring: Prometheus, Grafana, ELK, Log4J, SLF4J
 - Database: DBeaver, Oracle SQL Explorer, SQL Server Studio, PgAdmin, MongoDB Compass, MySQL Workbench
-- Profiling and debug: JProfiler, Wireshark
+- Caching: Rebrow, RedisInsight
+- Profiling and debug: JProfiler, Wireshark, Java Visual VM
 - Docs and communications: Confluence, JIRA, Slack, MS Teams, Google Meet, Google Docs, Zoom, Miro
 - OS: Linux Ubuntu, Arch Linux and Windows 10
 
