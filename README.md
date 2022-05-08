@@ -90,7 +90,7 @@ The rest of the text is under construction.
 - https://github.com/bovino/kotlin_sboot233_tdc_live_coding
 - (under construction, i will have a few others in this list soon....)
 
-## 📱 My Contacts ##
+## 📱 My Contacts (Email and Linkedin profile) ##
 
 [![logo gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bezerra.mj@gmail.com) bezerra.mj@gmail.com
 
