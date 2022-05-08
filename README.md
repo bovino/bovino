@@ -93,7 +93,7 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 - Contract testing: Pact, Pact Broker, Spring Cloud contract
 - API: Postman, curl, Insomnia, Stoplight, OpenAPI Generator (https://openapi-generator.tech/), OpenAPI tools (https://openapi.tools/), Swagger Editor
 - Kafka: Kafka Drop, Offset Explorer / Kafka Tool, Kaf, Spectre Kafka GUI
-- Metrics, logging and monitoring: Prometheus, Grafana, ELK, Log4J
+- Metrics, logging and monitoring: Prometheus, Grafana, ELK, Log4J, SLF4J
 - Database: DBeaver, Oracle SQL Explorer, SQL Server Studio, PgAdmin, MongoDB Compass, MySQL Workbench
 - Profiling and debug: JProfiler, Wireshark
 - Docs and communications: Confluence, JIRA, Slack, MS Teams, Google Meet, Google Docs, Zoom, Miro
