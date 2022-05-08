@@ -73,11 +73,11 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 
 ## :books: Topics i am currently interested in ##
 
-- API Design
-- API Gateways (specially Kong API Gateway)
+- API design (specially using the specs OpenAPI and Async API)
+- API gateways (specially Kong API Gateway)
 - Open innovation (specially with public APIs involved)
 - Distributed architectures (including but not limited to microservices)
-- Data streaming
+- Data streaming (specially using Apache Kafka)
 - Automated testing and quality assurance for APIs
 - API governance
 
@@ -97,7 +97,7 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 
 [![logo stackoverflow](https://img.shields.io/badge/StackOverFlow-F2F4F9?style=for-the-badge&logo=stackoverflow&logoColor=red)](https://stackoverflow.com/users/2769667/bovino-marcelo-bezerra)
 
-## :white_check_mark: Stats ##
+## :white_check_mark: Profile Stats ##
 
 [![Card mostrando estatísticas do perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bovino&theme=solarized_dark)](#)
 
