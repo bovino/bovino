@@ -106,6 +106,18 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 - https://github.com/bovino/kotlin_sboot233_tdc_live_coding
 - (under construction, i will have a few others in this list soon....)
 
+## :star: Awards and certifications :star: ##
+
+- Java 8 Oracle Certified Associate
+- SCEA - Sun Certified Enterprise Architect for JEE 5 (Parte 1)
+- Macromedia ColdFusion Certified Developer
+- Member of Kong Champions program
+- Former member of Team Macromedia for ColdFusion (later renamed for Adobe Community Experts)
+- Speaker at KongHQ "Destination:Scale" in 2021 with a session named ""
+- Speaker at TDC 2020, at the Kotlin Track with a session named ""
+- Speaker at TDC 2021, at the JavaScript and NodeJS Track with a session named ""
+- Speaker at TDC 2022, at the JavaScript and NodeJS Track with a session named ""
+
 ## 📱 My Contacts (Email, StackOverflow and Linkedin profile) ##
 
 [![logo gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bezerra.mj@gmail.com) bezerra.mj@gmail.com
