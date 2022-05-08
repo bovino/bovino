@@ -36,6 +36,10 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 
 ## :star: Technologies in which I have the most knowledge :star: ##
 
+[![logo http](https://img.shields.io/badge/HTTP-5E5C5C?style=for-the-badge&logo=http&logoColor=white)](#)
+[![logo rest](https://img.shields.io/badge/REST-5E5C5C?style=for-the-badge&logo=rest&logoColor=white)](#)
+[![logo openapi](https://img.shields.io/badge/OpenAPI-5E5C5C?style=for-the-badge&logo=open-api&logoColor=white)](#)
+[![logo swagger](https://img.shields.io/badge/Swagger-5E5C5C?style=for-the-badge&logo=swagger&logoColor=white)](#)
 [![logo sql](https://img.shields.io/badge/SQL-5E5C5C?style=for-the-badge&logo=sql&logoColor=white)](#)
 [![logo monoliths](https://img.shields.io/badge/Monoliths-5E5C5C?style=for-the-badge&logo=monoliths&logoColor=white)](#)
 [![logo microservices](https://img.shields.io/badge/MicroServices-6DB33F?style=for-the-badge&logo=microservices&logoColor=white)](#)
@@ -48,6 +52,7 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 [![logo mockito](https://img.shields.io/badge/Mockito-F2F4F9?style=for-the-badge&logo=mockito)](#)
 [![logo kotlin](https://img.shields.io/badge/Kotlin-ED8B00?style=for-the-badge&logo=kotlin&logoColor=white)](#)
 [![logo json](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)](#)
+[![logo xml](https://img.shields.io/badge/xml-5E5C5C?style=for-the-badge&logo=xml&logoColor=white)](#)
 [![logo github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)
 [![logo javascript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![logo nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](#)
@@ -60,7 +65,6 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 [![logo kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](#)
 [![logo lua](https://img.shields.io/badge/LUA-5E5C5C?style=for-the-badge&logo=lua&logoColor=white)](#)
 [![logo pongo](https://img.shields.io/badge/Pongo-5E5C5C?style=for-the-badge&logo=pongo&logoColor=white)](#)
-[![logo rest](https://img.shields.io/badge/REST-5E5C5C?style=for-the-badge&logo=rest&logoColor=white)](#)
 [![logo kong](https://img.shields.io/badge/KONGAPIGATEWAY-5E5C5C?style=for-the-badge&logo=kong&logoColor=white)](#)
 
 ## :books: Technologies that I am looking to study and improve myself ##
