@@ -109,8 +109,8 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 ## :star: Awards and certifications :star: ##
 
 - Java 8 Oracle Certified Associate
-- SCEA - Sun Certified Enterprise Architect for JEE 5 (Parte 1)
-- Macromedia ColdFusion Certified Developer
+- SCEA - Sun Certified Enterprise Architect for JEE 5 (Part 1/3)
+- Macromedia Certified ColdFusion Developer
 - Member of Kong Champions program
 - Former member of Team Macromedia for ColdFusion (later renamed for Adobe Community Experts)
 - Speaker at KongHQ "Destination:Scale" in 2021 with a session named ""
