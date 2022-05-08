@@ -93,6 +93,7 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 - Data streaming (specially using Apache Kafka)
 - Automated testing and quality assurance for APIs
 - API governance
+- APIOps (specially when combined with an API-First approach)
 
 ## :books: Some of my coolest githup repos that you might want to take a look ##
 
