@@ -39,6 +39,8 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 
 [![logo http](https://img.shields.io/badge/HTTP-5E5C5C?style=for-the-badge&logo=http&logoColor=white)](#)
 [![logo rest](https://img.shields.io/badge/REST-5E5C5C?style=for-the-badge&logo=rest&logoColor=white)](#)
+[![logo oauthv2](https://img.shields.io/badge/OAuthv2-5E5C5C?style=for-the-badge&logo=oauth2&logoColor=white)](#)
+[![logo openidconnect](https://img.shields.io/badge/OpenIdConnect-5E5C5C?style=for-the-badge&logo=openid-connect&logoColor=white)](#)
 [![logo openapi](https://img.shields.io/badge/OpenAPI-5E5C5C?style=for-the-badge&logo=open-api&logoColor=white)](#)
 [![logo swagger](https://img.shields.io/badge/Swagger-5E5C5C?style=for-the-badge&logo=swagger&logoColor=white)](#)
 [![logo sql](https://img.shields.io/badge/SQL-5E5C5C?style=for-the-badge&logo=sql&logoColor=white)](#)
@@ -90,8 +92,10 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 - Load test: JMeter, K6, LoadMill
 - Contract testing: Pact, Pact Broker, Spring Cloud contract
 - API: Postman, curl, Insomnia, Stoplight, OpenAPI Generator (https://openapi-generator.tech/), OpenAPI tools (https://openapi.tools/), Swagger Editor
-- Kafka: KafkaDrop, Offset Explorer, Kaf
+- Kafka: Kafka Drop, Offset Explorer / Kafka Tool, Kaf, Spectre Kafka GUI
+- Metrics, logging and monitoring: Prometheus, Grafana, ELK, Log4J
 - Database: DBeaver, Oracle SQL Explorer, SQL Server Studio, PgAdmin, MongoDB Compass, MySQL Workbench
+- Profiling and debug: JProfiler, Wireshark
 - Docs and communications: Confluence, JIRA, Slack, MS Teams, Google Meet, Google Docs, Zoom, Miro
 - OS: Linux Ubuntu, Arch Linux and Windows 10
 
@@ -126,10 +130,10 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 - Macromedia Certified ColdFusion Developer
 - Member of Kong Champions program
 - Former member of Team Macromedia for ColdFusion (later renamed for Adobe Community Experts)
-- Speaker at KongHQ "Destination:Scale" in 2021 with a session named ""
-- Speaker at TDC 2020, at the Kotlin Track with a session named ""
-- Speaker at TDC 2021, at the JavaScript and NodeJS Track with a session named ""
-- Speaker at TDC 2022, at the JavaScript and NodeJS Track with a session named ""
+- Speaker at KongHQ "Destination:Scale" in 2021 with a session named "MAKE IT EASY: AUTOMATING TESTS AND DEPLOYMENT OF CUSTOM PLUGINS"
+- Speaker at TDC 2020, at the Kotlin Track with a session named "Using SpringBoot 2.3.0 with Kotlin and Gradle"
+- Speaker at TDC 2021, at the JavaScript and NodeJS Track with a session named "Writing consumer driven contract tests in Pact for an API client in NodeJS"
+- Speaker at TDC 2022, at the JavaScript and NodeJS Track with a session named "Evaluating and improving performance of APIs written in NodeJS"
 
 ## 📱 My Contacts (Email, StackOverflow and Linkedin profile) ##
 
