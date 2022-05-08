@@ -34,6 +34,8 @@ The rest of the text is under construction.
 
 ## :star: Technologies in which I have the most knowledge :star: ##
 
+[![logo monoliths](https://img.shields.io/badge/Monoliths-5E5C5C?style=for-the-badge&logo=monoliths&logoColor=white)](#)
+[![logo microservices](https://img.shields.io/badge/MicroServices-6DB33F?style=for-the-badge&logo=microservices&logoColor=white)](#)
 [![logo java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)](#)
 [![logo spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 [![logo springboot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)](#)
@@ -45,6 +47,7 @@ The rest of the text is under construction.
 [![logo mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
 [![logo mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![logo postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](#)
+[![logo kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)](#)
 [![logo lua](https://img.shields.io/badge/LUA-5E5C5C?style=for-the-badge&logo=lua&logoColor=white)](#)
 [![logo rest](https://img.shields.io/badge/REST-5E5C5C?style=for-the-badge&logo=rest&logoColor=white)](#)
 [![logo kong](https://img.shields.io/badge/KONGAPIGATEWAY-5E5C5C?style=for-the-badge&logo=kong&logoColor=white)](#)
