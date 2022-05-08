@@ -29,7 +29,10 @@ nunca vai mentir e te magoar.
 -->
 ## :star: About me ##
 My nickname is bovino and my name is Marcelo Bezerra (but people have usually and consistently called me by my nickname in the last 20 years or so). 
-I am a software engineer focused on backend, API design, API Gateways and system integrations. I am a member of the Kong Champions program (https://konghq.com/kong-champions). 
+I am a software engineer who started programming in 2002, and in the last years i focused my career on topics like backend development, API design, API Gateways and system integrations. 
+
+I am a member of the Kong Champions program (https://konghq.com/kong-champions) and i had the honor to speak in conferences like Kong HQ "Destination:Scale" and TDC - The Developers Conference. 
+
 The rest of the text is under construction.
 
 ## :star: Technologies in which I have the most knowledge :star: ##
@@ -62,11 +65,22 @@ The rest of the text is under construction.
 [![logo golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)](#)
 [![logo gcp](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](#)
 [![logo aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](#)
+[![logo elastic](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)](#)
 
 ## :books: Education ##
 
 - GRADUATION: During my graduation i studied at UnB (University of Brasilia) and UniEuro (Brazil)
 - POST GRADUATION: I have a post graduation at IGTI (Brazil), where i studied BigData and topics related to data engineering
+
+## :books: Topics i am currently interested in ##
+
+- API Design
+- API Gateways (specially Kong API Gateway)
+- Open innovation (specially with public APIs involved)
+- Distributed architectures (including but not limited to microservices)
+- Data streaming
+- Automated testing and quality assurance for APIs
+- API governance
 
 ## :books: Some of my coolest githup repos that you might want to take a look ##
 
