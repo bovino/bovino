@@ -119,6 +119,7 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 
 ## :books: Some of my coolest githup repos that you might want to take a look ##
 
+- https://github.com/bovino/kong-gateway-introducao
 - https://github.com/bovino/kong-template-with-docker
 - https://github.com/bovino/docker-compose-generator
 - https://github.com/bovino/cidprojetoaplicado
