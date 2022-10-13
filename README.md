@@ -112,7 +112,8 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 - API gateways (specially Kong API Gateway)
 - Open innovation (specially with public APIs involved)
 - Distributed architectures (including but not limited to microservices)
-- Data streaming (specially using Apache Kafka)
+- Data streaming (specially using Apache Kafka and Kafka Connectors)
+- Event-driven architecture
 - Automated testing and quality assurance for APIs
 - API governance
 - APIOps (specially when combined with an API-First approach)
@@ -128,10 +129,11 @@ and TDC - The Developers Conference (https://thedevconf.com/).
 
 ## :star: Awards and certifications :star: ##
 
+- Winner of Kong 2022 Hackaton with the award "Top Overall Contribution" (https://konghq.com/conferences/kong-summit/hackathon and https://www.linkedin.com/feed/update/urn:li:activity:6981765066433916928/ and https://twitter.com/thekonginc/status/1577282942094790656)
+- Member of Kong Champions program
 - Java 8 Oracle Certified Associate
 - SCEA - Sun Certified Enterprise Architect for JEE 5 (Part 1/3)
 - Macromedia Certified ColdFusion Developer
-- Member of Kong Champions program
 - Former member of Team Macromedia for ColdFusion (later renamed for Adobe Community Experts)
 - Speaker at KongHQ "Destination:Scale" in 2021 with a session named "MAKE IT EASY: AUTOMATING TESTS AND DEPLOYMENT OF CUSTOM PLUGINS"
 - Speaker at TDC 2020, at the Kotlin Track with a session named "Using SpringBoot 2.3.0 with Kotlin and Gradle"
