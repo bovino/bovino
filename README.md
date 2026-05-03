@@ -107,6 +107,7 @@ and TDC - The Developers Conference (https://thedevconf.com/). Well yes, i enjoy
 
 ## :books: Topics i am currently interested in ##
 
+- Cloud services
 - API design (specially using the specs OpenAPI and Async API)
 - API gateways (specially Kong API Gateway)
 - Open innovation (specially with public APIs involved)
@@ -128,6 +129,7 @@ and TDC - The Developers Conference (https://thedevconf.com/). Well yes, i enjoy
 
 ## :star: Awards and certifications :star: ##
 
+- AWS Certified Cloud Praticioner
 - Winner of Kong 2022 Hackaton with the award "Top Overall Contribution" (https://konghq.com/conferences/kong-summit/hackathon and https://www.linkedin.com/feed/update/urn:li:activity:6981765066433916928/ and https://twitter.com/thekonginc/status/1577282942094790656)
 - Member of Kong Champions program
 - Java 8 Oracle Certified Associate
